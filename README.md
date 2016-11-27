@@ -20,7 +20,7 @@ There is an online tool which I would like everyone to go to and just design a b
 
 Simply enough, there is a tag for a button... Any guesses as to what?
 
-# > <button type="button">Click Me!</button>
+# > `<button type="button">`Click Me!`</button>`
 
 > http://css3buttongenerator.com/
 
@@ -29,9 +29,13 @@ Simply enough, there is a tag for a button... Any guesses as to what?
 This defines the primary colour. This is the first colour when making a gradient.
 
 > background-image: -webkit-linear-gradient(top, #d934c6, #295a78);
+
 > background-image: -moz-linear-gradient(top, #d934c6, #295a78);
+
 > background-image: -ms-linear-gradient(top, #d934c6, #295a78);
+
 > background-image: -o-linear-gradient(top, #d934c6, #295a78);
+
 > background-image: linear-gradient(to bottom, #d934c6, #295a78);
 
 This line of code is generating the gradient. If you would like just one colour, you would not need to add this as it will be defined by the background colour.
@@ -61,11 +65,17 @@ The padding defines the space from the typography to the edge of the buttons. As
 ## What about hover state for emphasis?
 
 > .btn:hover {
+
 > background: #3cb0fd;
+
 > background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+
 > background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+
 > background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+
 > background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+
 > background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
 
 Majority of what we learnt to define the button is the same. It has the same code but it just defines a different gradient or colour. The background changes when the mouse goes over the button.
