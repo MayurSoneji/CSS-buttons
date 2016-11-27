@@ -82,5 +82,9 @@ The padding defines the space from the typography to the edge of the buttons. As
 
 Majority of what we learnt to define the button is the same. It has the same code but it just defines a different gradient or colour. The background changes when the mouse goes over the button.
 
-**Go to your favourite website, one you visit on a daily basis and see what animations they have to emphasise a button**
+## What about Borders?
+
+[Borders W3School](http://www.w3schools.com/css/css_border.asp)
+
+**Any websites in particular you would like to see how they make their buttons?**
 
