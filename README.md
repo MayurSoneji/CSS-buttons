@@ -14,13 +14,15 @@ What is wrong with this? Why is it hard to see what each element does?
 
 Now that we have a brief insight as to what a button should look like, lets start creating one ourselves.
 
-There is an online tool which I would like everyone to go to and just design a button, this website generates the CSS for you rather than you having to do it. Although it does generate the code for you, take note as to what each line does... it is pretty much a tool in which you can learn.
-
 ## HTML and a Button Tag?
 
 Simply enough, there is a tag for a button... Any guesses as to what?
 
 # `<button type="button">`Click Me!`</button>`
+
+## CSSify the button
+
+There is an online tool which I would like everyone to go to and just design a button, this website generates the CSS for you rather than you having to do it. Although it does generate the code for you, take note as to what each line does... it is pretty much a tool in which you can learn.
 
 > http://css3buttongenerator.com/
 
