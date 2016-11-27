@@ -20,7 +20,7 @@ There is an online tool which I would like everyone to go to and just design a b
 
 Simply enough, there is a tag for a button... Any guesses as to what?
 
-# <button type="button">Click Me!</button>
+# > <button type="button">Click Me!</button>
 
 > http://css3buttongenerator.com/
 
